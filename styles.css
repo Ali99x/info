@@ -1,0 +1,137 @@
+/* تنسيقات عامة */
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    overflow: hidden;
+}
+
+.background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #331903 0%, #4d2705 50%, #301803 100%);
+    z-index: 0;
+}
+
+.stars {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+/* تنسيقات صندوق الاختيار */
+
+.selection-container {
+    position: relative;
+    z-index: 1;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 30px; /* زيادة حجم الصندوق */
+    backdrop-filter: blur(8px);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 800px; /* زيادة عرض الصندوق */
+}
+
+.selection-container h2 {
+    color: #fff; /* لون العنوان باللون الأبيض */
+    margin-bottom: 15px;
+}
+
+.selection-container p {
+    color: #fff; /* لون النص باللون الأبيض */
+    margin-bottom: 20px;
+}
+
+/* صندوق الاختيار */
+#info-select {
+    width: 100%;
+    padding: 15px; /* زيادة حجم الصندوق */
+    border: none;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.8);
+    color: black;
+}
+
+/* تنسيقات النافذة المنبثقة */
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 1000;
+    overflow: auto;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.modal-content {
+    position: relative;
+    background: rgba(0, 0, 0, 0.9);
+    border-radius: 10px;
+    padding: 30px; /* زيادة حجم النافذة */
+    width: 80%;
+    max-width: 800px;
+    margin: 50px auto;
+    animation: appearFromBook 0.5s ease-out;
+}
+
+/* نصوص العنوان والأقسام المختلفة */
+.modal-content h2 {
+    color: #fff; /* لون العنوان باللون الأبيض */
+        text-align: center; /* توسيط النصوص داخل النافذة */
+
+    
+}
+
+.modal-content p {
+    color: #ddd;   
+direction: rtl; 
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 14px;
+    font-size: 28px;
+    cursor: pointer;
+    color: #fff; /* لون أيقونة الإغلاق */
+}
+
+@keyframes appearFromBook {
+    from {
+        transform: scale(0) rotateX(90deg);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1) rotateX(0deg);
+        opacity: 1;
+    }
+}
+
+@keyframes disappearToBook {
+    from {
+        transform: scale(1) rotateX(0deg);
+        opacity: 1;
+    }
+    to {
+        transform: scale(0) rotateX(90deg);
+        opacity: 0;
+    }
+}
+
+.modal.hide .modal-content {
+    animation: disappearToBook 0.5s ease-out;
+}
