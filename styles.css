@@ -92,6 +92,19 @@ color: white;
 }
 
 
+h6 {
+    color: #ed790c; /* اللون الأصفر */
+    font-size: 14px; /* حجم الخط أصغر */
+   
+    padding: 5px; /* إضافة حواف للعنوان */
+    text-align: center;
+    margin-bottom: 2x; /* مسافة سفلية */
+      margin-top: 0px; /* مسافة سفلية */
+  
+}
+
+
+
 .selection-container h2 {
     color: #fff; /* لون العنوان باللون الأبيض */
     margin-bottom: 15px;
