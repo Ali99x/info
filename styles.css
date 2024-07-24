@@ -66,6 +66,32 @@ h3 {
       margin-top: 0px; /* مسافة سفلية */
 }
 
+
+h4 {
+    color: #ed790c; /* اللون الأصفر */
+    font-size: 14px; /* حجم الخط أصغر */
+   
+    padding: 5px; /* إضافة حواف للعنوان */
+  
+    margin-bottom: 2x; /* مسافة سفلية */
+      margin-top: 0px; /* مسافة سفلية */
+      direction:rtl;
+}
+
+
+h5 {
+color: white;
+    font-size: 14px; /* حجم الخط أصغر */
+   
+    padding: 5px; /* إضافة حواف للعنوان */
+   
+    margin-bottom: 4x; /* مسافة سفلية */
+      margin-top: 0px; /* مسافة سفلية */
+  text-align: center;
+
+}
+
+
 .selection-container h2 {
     color: #fff; /* لون العنوان باللون الأبيض */
     margin-bottom: 15px;
@@ -286,4 +312,3 @@ footer a:hover {
 .hide {
     top: -80px; /* الموقع النهائي للرسالة عند الاختفاء */
 }
-
