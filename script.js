@@ -107,13 +107,14 @@ closeBtn.addEventListener('click', () => {
     setTimeout(() => {
         modal.style.display = 'none';
         modal.classList.remove('hide');
-    }, 500);
+    }, 0);
 });
 
 // إغلاق النافذة عند النقر خارجها
 window.addEventListener('click', (event) => {
     if (event.target === modal) {
         closeBtn.click();
+        modal.classList.remove('hide');
     }
 });
 
@@ -153,3 +154,41 @@ const menuButton = document.getElementById('menu-button');
 function openPage(url) {
     window.location.href = url;
 }
+
+// script.js
+window.onload = function() {
+    const message = document.getElementById('welcomeMessage');
+
+    // عرض الرسالة
+    message.classList.add('show');
+
+    // إخفاء الرسالة بعد 4 ثوانٍ
+    setTimeout(() => {
+        message.classList.remove('show');
+        message.classList.add('hide');
+    }, 4000);
+};
+
+
+
+
+// منع النسخ
+document.addEventListener('copy', function(e) {
+    e.preventDefault();
+});
+
+// منع استخدام قائمة السياق (النقر بزر الفأرة الأيمن)
+document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+});
+
+// منع تحديد النصوص
+document.addEventListener('selectstart', function(e) {
+    e.preventDefault();
+});
+
+document.addEventListener('keydown', function(e) {
+    if ((e.ctrlKey && e.key === 'c') || (e.ctrlKey && e.key === 'v')) {
+        e.preventDefault();
+    }
+});
