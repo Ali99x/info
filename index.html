@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>معلومات الجامعات</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background"></div>
+    <div class="stars"></div>
+
+    <!-- صندوق الاختيارات -->
+    <div class="glass-container selection-container">
+        <h2>معلومات وشرح</h2>
+        <p>اختر من القائمة أدناه للحصول على معلومات وشرح حول بعض الأنظمة التعليمية.</p>
+        <select id="info-select">
+            <option value="">-- اختر --</option>
+            <option value="parallel">نظام البارليل</option>
+            <option value="load">نظام التحميل</option>
+            <!-- أضف خيارات أخرى هنا إذا لزم الأمر -->
+        </select>
+    </div>
+
+    <!-- النافذة المنبثقة -->
+    <div id="info-modal" class="modal">
+        <div class="glass-container modal-content">
+            <span class="close-btn">&times;</span>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
