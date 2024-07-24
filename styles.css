@@ -30,7 +30,7 @@ body {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: linear-gradient(135deg, #331903 0%, #4d2705 50%, #301803 100%);
+    background: linear-gradient(135deg, #402006 0%, #291605 50%, #211001 100%);
     z-index: 0;
 }
 
@@ -69,11 +69,11 @@ h3 {
 
 h4 {
     color: #ed790c; /* اللون الأصفر */
-    font-size: 14px; /* حجم الخط أصغر */
+    font-size: 12px; /* حجم الخط أصغر */
    
-    padding: 5px; /* إضافة حواف للعنوان */
+    padding: 1px; /* إضافة حواف للعنوان */
   
-    margin-bottom: 2x; /* مسافة سفلية */
+    margin-bottom: 1x; /* مسافة سفلية */
       margin-top: 0px; /* مسافة سفلية */
       direction:rtl;
 }
@@ -148,7 +148,7 @@ h6 {
 
 .modal-content {
     position: relative;
-    background: rgba(0, 0, 0, 0.9);
+    background: rgba(13, 13, 13);
     border-radius: 10px;
     padding: 30px; /* زيادة حجم النافذة */
     width: 70%;
@@ -167,7 +167,7 @@ h6 {
  padding: 8px; /* إضافة حواف للعنوان */
 margin-bottom: 6px; /* مسافة سفلية */
 
-font-size: 20px !important; /* حجم النص مع استخدام !important */
+font-size: 16px !important; /* حجم النص مع استخدام !important */
 
 
 }
