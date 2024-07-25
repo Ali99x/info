@@ -148,7 +148,7 @@ h6 {
 
 .modal-content {
     position: relative;
-    background: rgba(13, 13, 13);
+     background: rgba(18, 18, 18);
     border-radius: 10px;
     padding: 30px; /* زيادة حجم النافذة */
     width: 70%;
