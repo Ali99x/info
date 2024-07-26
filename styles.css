@@ -30,7 +30,7 @@ body {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: linear-gradient(135deg, #402006 0%, #291605 50%, #211001 100%);
+    background: linear-gradient(135deg, #08010f  0%, #130221 50%, #21043b 100%);
     z-index: 0;
 }
 
@@ -57,7 +57,7 @@ body {
 
 
 h3 {
-    color: #ed790c; /* اللون الأصفر */
+    color: #c847ff; /* اللون الأصفر */
     font-size: 14px; /* حجم الخط أصغر */
     background: rgba(0, 0, 0, 0.1); /* خلفية خفيفة */
     padding: 10px; /* إضافة حواف للعنوان */
