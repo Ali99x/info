@@ -325,7 +325,158 @@ kurd:`
     </tbody>
 </table>
 
-<p>قد تختلف الأرقام قليلاً في باقي الجامعات.</p>
+<p>ملاحظة: قد تختلف الأرقام قليلاً في باقي الجامعات.</p>
+ `  ,
+   adaby:`
+
+<h2> الأقسام  للطالب الادبي </h2>
+
+<p>يمكن لطلاب <strong>الفرع الأدبي</strong> الذين يودون التقديم للجامعات التخصص في مجموعة متنوعة من الأقسام الأكاديمية. تشمل بعض هذه الأقسام:</p>
+
+
+
+  <table>
+            <thead>
+                <tr>
+                    <th>القسم</th>
+                   <th>متاح</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>القانون</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>علوم سياسية</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>علاقات دولية</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>اللغة العربية</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>اللغة الكوردية</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>اللغة الفارسية</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>اللغة الفرنسية</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>اللغة الألمانية</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>اللغة التركية</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>الترجمة</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>إدارة أعمال</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>اقتصاد</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>الإعلام</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>سياحة وسفر</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>إدارة التسويق</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>إدارة المشاريع</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>الإدارة الصحية</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>إدارة الجمارك</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>حقوق الإنسان</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>علم نفس</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>علم الاجتماع</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>تربية خاصة</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>إرشاد تربوي</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>الثروة الحيوانية</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>تنمية بشرية</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+               
+                <tr>
+                    <td>علاقات عامة</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>آثار</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>فلسفة</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>روضة أطفال</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>مبادئ الدين</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>تربية رياضة</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+                    <td>كلية الفنون</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+            </tbody>
+        </table>
+
+<p>قد تتوفر أقسام وتخصصات أخرى في الجامعات الأهلية وبعض المعاهد الحكومية، لذا يُفضل عدم الاعتماد على هذه البيانات فقط.</p>
+<p>عند التقديم الجامعي، يمكنك الاطلاع على جميع الأقسام التي تقبل معدلك وتخصصك، سواء كان <strong>أدبي</strong> أو <strong>علمي</strong>، عبر موقع <strong>الزانكولاين</strong>.</p>
 
 
   `
