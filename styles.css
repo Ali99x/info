@@ -103,7 +103,10 @@ h6 {
   
 }
 
-
+ul {
+     direction: rtl; 
+   color: #feffd9; /* لون العنوان */
+}
 
 .selection-container h2 {
     color: #fff; /* لون العنوان باللون الأبيض */
