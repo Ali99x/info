@@ -261,6 +261,33 @@ direction: rtl;
 
 
 
+table {
+  
+    border-collapse: collapse;
+    margin: 1px 0;
+    font-size: 14px;
+    text-align: right;
+    direction: rtl;
+  
+    margin: auto;
+     width: 80%;
+}
+
+
+table th, table td {
+    padding: 8px 10px;
+    border: 1px solid #ffdd00;
+    color: #ffffff;
+        text-align: center;
+
+}
+
+ .highlight {
+            color: #ff3b3b;
+        }
+
+
+
 footer {
     position: fixed;
     bottom: 0;
@@ -270,6 +297,7 @@ footer {
     text-align: center;
     padding: 10px 0;
     font-size: 14px;
+ 
  
 }
 
