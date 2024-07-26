@@ -158,6 +158,10 @@ ul {
     max-width: 600px;
     margin: 50px auto;
     animation: appearFromBook 0.5s ease-out;
+      overflow: auto;
+    height: auto;
+    max-height: 68vh;
+
 }
 
 .modal-content h2 {
