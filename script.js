@@ -345,7 +345,7 @@ kurd:`
             <tbody>
                 <tr>
                     <td>القانون</td>
-                    <td class="checkmark">✅</td>
+                    <td class="checkmark">  ✅  </td>
                 </tr>
                 <tr>
                     <td>علوم سياسية</td>
