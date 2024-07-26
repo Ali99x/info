@@ -292,35 +292,35 @@ kurd:`
     <tbody>
         <tr>
             <td>90-100</td>
-            <td>Level AA</td>
+            <td>Level - AA</td>
         </tr>
         <tr>
             <td>85-89</td>
-            <td>Level BA</td>
+            <td>Level - BA</td>
         </tr>
         <tr>
             <td>80-84</td>
-            <td>Level BB</td>
+            <td>Level - BB</td>
         </tr>
         <tr>
             <td>75-79</td>
-            <td>Level CB</td>
+            <td>Level - CB</td>
         </tr>
         <tr>
             <td>70-74</td>
-            <td>Level CC</td>
+            <td>Level - CC</td>
         </tr>
         <tr>
             <td>60-69</td>
-            <td>Level DC</td>
+            <td>Level - DC</td>
         </tr>
         <tr>
             <td>50-59</td>
-            <td>Level DD</td>
+            <td>Level - DD</td>
         </tr>
         <tr>
            <td class="highlight">00-49</td>
-                    <td>Level FF</td>
+                    <td>Level - FF</td>
         </tr>
     </tbody>
 </table>
