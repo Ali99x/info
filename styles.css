@@ -92,6 +92,15 @@ color: white;
 }
 
 
+ strong {
+           
+           color: #ffc905; /* لون العنوان */
+         
+        }
+
+
+
+
 h6 {
     color: #ed790c; /* اللون الأصفر */
     font-size: 14px; /* حجم الخط أصغر */
