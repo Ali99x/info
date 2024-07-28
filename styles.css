@@ -281,10 +281,15 @@ direction: rtl;
     right: 20px;
     font-size: 24px;
     cursor: pointer;
-    z-index: 1000;
+    z-index: 1009;
     color: white;
-       z-index: 1009;
+    transition: transform 0.3s ease;
 }
+
+.menu-button.clicked {
+    transform: rotate(180deg) scale(1.1);
+}
+       
 
 .side-menu {
     position: fixed;
