@@ -41,15 +41,20 @@ body {
 }
 
 
-#info-select, {
+#city,
+#university,
+#college ,
+#info-select,
+#department {
     color: black;
     -webkit-appearance: none;
 }
 
 
+
 /* شريط التمرير */
 ::-webkit-scrollbar {
-    width: 10px; /* عرض الشريط */
+    width: 8px; /* عرض الشريط */
 }
 
 /* مسار شريط التمرير */
