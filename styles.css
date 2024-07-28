@@ -283,6 +283,7 @@ direction: rtl;
     cursor: pointer;
     z-index: 1000;
     color: white;
+       z-index: 1009;
 }
 
 .side-menu {
