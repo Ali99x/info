@@ -188,7 +188,7 @@ ul {
       direction: rtl;
  background-image: url('https://i.ibb.co/vkdXfMz/down-arrow.png'); /* إضافة أيقونة السهم الخاصة بك */
     background-repeat: no-repeat;
-    background-position: calc(100% - 180px) center; /* تحديد مكان الأيقونة */
+    background-position: calc(100% - 190px) center; /* تحديد مكان الأيقونة */
     background-size: 12px; /* حجم الأيقونة */
 }
 /* للتأكد من أن الأيقونة تعمل على جميع المتصفحات */
@@ -201,7 +201,7 @@ select::-ms-expand {
 /* ضبط مكان السهم على الشاشات الصغيرة */
 @media (max-width: 600px) {
     #info-select {
-        background-position: calc(100% - 205px) center; /* تعديل مكان الأيقونة للشاشات الصغيرة */
+        background-position: calc(100% - 215px) center; /* تعديل مكان الأيقونة للشاشات الصغيرة */
     }
 }
 
