@@ -217,23 +217,6 @@ ul {
     background: rgba(255, 255, 255, );
     color: black;
       direction: rtl;
- background-image: url('https://i.ibb.co/vkdXfMz/down-arrow.png'); /* إضافة أيقونة السهم الخاصة بك */
-    background-repeat: no-repeat;
-    background-position: calc(100% - 190px) center; /* تحديد مكان الأيقونة */
-    background-size: 12px; /* حجم الأيقونة */
-}
-/* للتأكد من أن الأيقونة تعمل على جميع المتصفحات */
-select::-ms-expand {
-    display: none;
-}
-
-
-
-/* ضبط مكان السهم على الشاشات الصغيرة */
-@media (max-width: 600px) {
-    #info-select {
-        background-position: calc(100% - 215px) center; /* تعديل مكان الأيقونة للشاشات الصغيرة */
-    }
 }
 
 /* تنسيقات النافذة المنبثقة */
