@@ -538,10 +538,323 @@ kurd:`
 </p>
 
 
+ `  ,
+   first:`
+   
+   <h2>ترقية الاقسام للأعلى</h2>
+   
+   <p>يمكن للطلاب الأوائل في الجامعات الانتقال من القسم الخاص بهم إلى قسم آخر أعلى منه، أي أن يتم ترقيتهم، وفقًا للشروط التالية:</p>
+<ul>
+    <li>أن يكون معدل الطالب 80 أو أكثر.</li>
+    <li>أن يكون الطالب الأول على طلاب الدفعة في القسم.</li>
+    <li>أن يكون ناجحًا من الدور الأول بدون رسوب سابق.</li>
+</ul>
+
+
+<p>ستجد القسم الأقل والقسم الأعلى الذي يمكن الترقية إليه باللون <span style="color: #10e36f; font-weight: bold;">الأخضر✔</span> فيما يلي، التفاصيل المطلوبة:</p>
+
+
+<table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>طب بيطري</td>
+            </tr>
+            <tr>
+                <td>علوم احياء</td>
+            </tr>
+            <tr>
+                <td>علوم مايكروبايلوحي</td>
+            </tr>
+            <tr>
+                <td>ميديكال مايكروايولوجي</td>
+            </tr>
+            <tr>
+                <td>تحليلات مختبرات طبية</td>
+            </tr>
+            <tr>
+                <td>علاج طبيعي</td>
+            </tr>
+            <tr>
+                <td>تحليلات مرضية</td>
+            </tr>
+            <tr>
+                <td>صحة عامة</td>
+            </tr>
+            <tr>
+                <td>تمريض</td>
+            </tr>
+            <tr class="college">
+             <td> طب عام ✅</td>
+             
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>تكنلوجيا صناعة الاسنان</td>
+            </tr>
+            <tr class="college">
+<td>طب اسنان ✅</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>علوم الكيمياء</td>
+            </tr>
+            <tr>
+                <td>كيمياء سريرية</td>
+            </tr>
+            <tr>
+                <td>تخدير</td>
+            </tr>
+            <tr>
+                <td>تغذية والحميات</td>
+            </tr>
+            <tr>
+                <td>كيمياء صيدلة</td>
+            </tr>
+            <tr class="college">
+<td>صيدلة ✅</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>صحة مجتمع</td>
+            </tr>
+            <tr class="college">
+     <td>تمريض ✅</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>علم الحيوانات</td>
+            </tr>
+            <tr class="college">
+<td>طب بيطري ✅</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>حماية البنات</td>
+            </tr>
+            <tr class="college">
+<td>علوم بايولوجي ✅</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>صناعات التغذية</td>
+            </tr>
+            <tr>
+                <td>تغذية وإلجودة</td>
+            </tr>
+            <tr class="college">
+<td>علوم كيمياء ✅</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>علوم جيولوجيا</td>
+            </tr>
+            <tr>
+                <td>علوم المعادن</td>
+            </tr>
+            <tr>
+                <td>علوم الأرض البترولية</td>
+            </tr>
+            <tr class="college">
+<td>هندسة نفط ✅</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>فيزياء طبية</td>
+            </tr>
+            <tr>
+                <td>علوم فيزياء</td>
+            </tr>
+            <tr class="college">
+<td>هندسة كهرباء ✅</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>علوم رياضيات</td>
+            </tr>
+            <tr class="college">
+
+<td>هندسة مدني ✅</td>
+</tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>علوم كومبيوتر</td>
+            </tr>
+            <tr class="college">
+<td>هندسة برمجيات ✅</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>علوم البيئة</td>
+            </tr>
+            <tr>
+                <td>تربة ومياه</td>
+            </tr>
+            <tr class="college">
+<td>هندسة مصادر المياه ✅</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>زراعة غابات</td>
+            </tr>
+            <tr class="college">
+<td>علوم البيئة ✅</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>قسم الإحصاء</td>
+            </tr>
+            <tr class="college">
+
+<td>علوم رياضيات ✅</td>
+
+</tr>
+        </tbody>
+    </table>
 
 
 
 
+
+
+
+
+  
+        
+   
+
+<p><strong>الأوائل على كلية الهندسة الزراعية:</strong></p>
+<ul>
+    <li>الأول يذهب إلى قسم الطب البيطري</li>
+    <li>الثاني يذهب إلى قسم العلوم البيولوجية</li>
+    <li>الثالث يذهب إلى قسم العلوم الكيميائية</li>
+</ul>
+
+
+<p>يمكن أيضًا لطلاب بعض المعاهد الانتقال إلى الكليات إذا كانوا من الأوائل في معاهدهم.</p>
+<p><strong>ملاحظة:</strong> قد تختلف شروط الترقية من كلية إلى أخرى، لذلك من المهم للطلاب التحقق من متطلبات الكلية الخاصة بهم.</p>
+<p><strong>ملاحظة:</strong> هذه الترقيات لا تشمل طلاب الجامعات الأهلية، إذ لديهم خصائص خاصة بهم. على سبيل المثال، قد يتمكن الطالب الأول من العمل بعد التخرج داخل الجامعة نفسها.</p>
   `
 };
 
