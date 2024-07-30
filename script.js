@@ -679,7 +679,7 @@ kurd:`
         </thead>
         <tbody>
             <tr>
-                <td>حماية البنات</td>
+                <td>حماية النبات</td>
             </tr>
             <tr class="college">
 <td>علوم بايولوجي ✅</td>
