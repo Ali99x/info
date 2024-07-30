@@ -611,6 +611,23 @@ kurd:`
         </tbody>
     </table>
 
+
+  <table>
+        <thead>
+            <tr>
+                <th>القسم</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>ادارة زراعية</td>
+            </tr>
+            <tr class="college">
+<td>اٍدارة الاعمال ✅</td>
+            </tr>
+        </tbody>
+    </table>
+
     <table>
         <thead>
             <tr>
