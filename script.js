@@ -367,10 +367,22 @@ kurd:`
                     <td class="checkmark">✅</td>
                 </tr>
                 <tr>
+
+</tr>
+                <tr>
+                    <td>اللغة الأنكليزية</td>
+                    <td class="checkmark">✅</td>
+                </tr>
+                <tr>
+
+                
                     <td>اللغة الفارسية</td>
                     <td class="checkmark">✅</td>
                 </tr>
                 <tr>
+
+
+                
                     <td>اللغة الفرنسية</td>
                     <td class="checkmark">✅</td>
                 </tr>
