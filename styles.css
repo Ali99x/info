@@ -63,7 +63,7 @@ body {
 
     border-radius: 8px; /* زوايا مستديرة للمسار */
      margin-top: 2px;
-     margin-bottom: ;: 2px;
+     margin-bottom: 2px;
 
 
 }
@@ -364,11 +364,13 @@ table {
     border-collapse: collapse;
     margin: 1px 0;
     font-size: 14px;
-    text-align: right;
+
     direction: rtl;
-  
-    margin: auto;
+    margin-bottom: 40px; /* المسافة بين الجداول */
+   text-align: right;
      width: 80%;
+      margin-left: auto;
+            margin-right: auto; /* يجعل الجدول في وسط الصفحة */
 }
 
 
@@ -382,6 +384,14 @@ table th, table td {
 
  .highlight {
             color: #f04357;
+        }
+
+
+
+ .college {
+            background-color:#197844;
+             font-weight: bold;
+
         }
 
 
