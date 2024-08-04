@@ -9,6 +9,7 @@ body, html {
     align-items: center;
     background: transparent;
     overflow: hidden;
+      cursor: url('https://i.ibb.co/QHWL1Rb/pen.png'), auto; /* استخدم مسار الصورة الصحيح */
 }
 
     /* منع تحديد النصوص */
