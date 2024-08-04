@@ -9,7 +9,11 @@ body, html {
     align-items: center;
     background: transparent;
     overflow: hidden;
-      cursor: url('https://i.ibb.co/QHWL1Rb/pen.png'), auto; /* استخدم مسار الصورة الصحيح */
+}
+
+* {
+                cursor: url('https://i.ibb.co/RvKR9Q1/pen1.png'), auto; /* استخدم مسار الصورة الصحيح */
+
 }
 
     /* منع تحديد النصوص */
@@ -278,7 +282,6 @@ direction: rtl;
     top: 10px;
     right: 14px;
     font-size: 28px;
-    cursor: pointer;
     color: #fff; /* لون أيقونة الإغلاق */
 }
 
