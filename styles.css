@@ -323,6 +323,16 @@ direction: rtl;
     transition: transform 0.3s ease;
 }
 
+.menu-button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    font-size: 24px;
+    z-index: 1009;
+    color: white;
+    transition: transform 0.3s ease;
+}
+
 .menu-button.clicked {
     transform: rotate(180deg) scale(1.1);
 }
@@ -358,7 +368,7 @@ direction: rtl;
 }
 
 .side-menu button:hover {
-    background-color: #ffc400;
+    background-color: #6e6e6e;
 }
 
 
